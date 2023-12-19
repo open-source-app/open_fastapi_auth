@@ -7,7 +7,7 @@ FastAPI JWT Authentication is a web service built with the FastAPI framework, pr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/fastapi-jwt-auth.git
+    git clone https://github.com/open-source-app/open_fastapi_auth.git
     cd fastapi-jwt-auth
     ```
 
