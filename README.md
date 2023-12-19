@@ -86,11 +86,18 @@ I have use [flake8](https://flake8.pycqa.org/en/latest/) for code formatting. To
 ```
 flake8 .
 ```
----
 
 Feel free to customize the sections based on your application's specific details. This README template provides a starting point for users to understand how to install, use, and contribute to your FastAPI application.
 
-### Sample Module Docstring
+## Todo
+
+### Send Refresh Token with Access Token:
+ - Update the authentication endpoint to include the refresh token in the response when generating an access token.
+### Get Access Token with Refresh Token:
+ - Implement an endpoint to refresh an access token using a valid refresh token.
+
+
+## Sample Module Docstring
 
 ```python
 """Module Name
